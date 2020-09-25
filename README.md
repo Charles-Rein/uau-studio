@@ -1,1 +1,1 @@
-https://charles-rein.github.io/uau-studio/. 
+http://uau-studio.ml/
